@@ -17,3 +17,6 @@ Document: https://hackmd.io/anQLdh1PT6KkqfO5eFm1ZQ
 In this repo under the directory code.
 
 Data from Gapminder.org
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ucla-data-archive/2020-05-15_is362b-datamgmt/master)
+
