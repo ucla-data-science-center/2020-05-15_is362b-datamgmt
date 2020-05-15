@@ -1,9 +1,9 @@
 ---
 author: Tim Dennis
-date:  2019-05-01
+date:  2020-05-20
 ---
 
-# 2019-is262b-techdmgt
+# 2020-is262b-techdmgt
 
 A repo for is262b class visit
 
